@@ -1,0 +1,10 @@
+.meal {
+  width: 350px;
+  height: 250px;
+}
+.mealDiv {
+  margin: 10px;
+  border: 1px solid lightgray;
+  padding: 10px;
+  border-radius: 5px;
+}
